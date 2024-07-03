@@ -2,7 +2,7 @@
 permalink: /lab-members/
 layout: archive
 title: "Lab Members"
-author_profile: true
+author_profile: false
 redirect_from: 
   - /people/
   - /people.html

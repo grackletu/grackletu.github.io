@@ -1,11 +1,11 @@
 ---
-permalink: /
 layout: archive
-title: "Welcome to the GRACkLe website!"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
+title: "About GRACkLe"
+permalink: /about/
+author_profile: false
 ---
 
-Info coming soon!
+Welcome to the 
+
+
+This page will describe the overarching interests, efforts, and values of GRACkLe at Trinity University... Website is still under construction for now!

@@ -19,14 +19,14 @@ locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
 title                    : "GRACkLe"
 title_separator          : "-"
-subtitle                 : "Geochemistry & Radioisotope Analytical & Computational Laboratory"
+subtitle                 : "Geochemistry & Radioisotope<br>Analytical & Computational Laboratory"
 name                     : 
 description              : "A laboratory at Trinity University in the Department of Earth & Enviornmental Geosciences. Out lab uses analytical and computational techniques to answer Earth and planetary questions with (isotope) geochemistry."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath  of your site, e.g. "/blog"
 repository               : "grackletu/grackletu.github.io"
 teaser                   : #"assets/images/grackle-no-border.svg"
-logo                     : #"assets/images/grackle-no-border.svg"
+logo                     : "assets/images/grackle.svg"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 breadcrumbs              : # true, false (default)
 words_per_minute         : 200
@@ -302,7 +302,7 @@ defaults:
       type: posts
     values:
       layout: single
-      author_profile: true
+      author_profile: false
       read_time: true
       comments: # true
       share: true
