@@ -19,9 +19,9 @@ locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
 title                    : "GRACkLe"
 title_separator          : "-"
-subtitle                 : "Geochemistry & Radioisotope<br>Analytical & Computational Laboratory"
+subtitle                 : "Geochemistry & Radioisotope<br>Analytical & Computation Laboratory"
 name                     : 
-description              : "A laboratory at Trinity University in the Department of Earth & Enviornmental Geosciences. Out lab uses analytical and computational techniques to answer Earth and planetary questions with (isotope) geochemistry."
+description              : "A laboratory at Trinity University in the Department of Earth & Enviornmental Geosciences. Our lab uses analytical and computational techniques to answer Earth and planetary questions with (isotope) geochemistry."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath  of your site, e.g. "/blog"
 repository               : "grackletu/grackletu.github.io"
