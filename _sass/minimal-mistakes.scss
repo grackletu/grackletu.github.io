@@ -35,3 +35,12 @@
 @import "minimal-mistakes/archive";
 @import "minimal-mistakes/sidebar";
 @import "minimal-mistakes/print";
+
+
+.labmember { display: flex; }
+.labmemberinfo { margin-left: 20px; vertical-align: middle}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }

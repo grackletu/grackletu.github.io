@@ -5,4 +5,6 @@ permalink: /research/
 author_profile: false
 ---
 
-Content coming soon!
+{% for post in site.research %}
+  {% include archive-single.html %}
+{% endfor %}
