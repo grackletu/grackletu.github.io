@@ -9,12 +9,12 @@ redirect_from:
 ---
 
 ## PI (Primary Investigator)
-<div class="labmember">
+<div style="display:flex;">
   <a href="https://grahamedwards.github.io"><div style="display: inline-table;"><img src="https://grahamedwards.github.io/images/profile.jpg" width="150"></div></a>
-  <p class="labmemberinfo"> 
+  <p style="margin-left: 20px; vertical-align: middle"> 
   <strong>Graham Harper Edwards</strong><br>
   <em>Assistant Professor</em><br><br>
-  Interests: geochemistry, cosmochemistry, glaciers, soils, meteorites
+  Interests: glaciers, water, soils, meteorites, time
   </p>
 </div>
 
