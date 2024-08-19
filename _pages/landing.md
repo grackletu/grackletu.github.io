@@ -13,10 +13,9 @@ excerpt: "**G**eochemistry & <b>R</b>adioisotope <b>A</b>nalysis & <b>C</b>omput
 author_profile: false
 redirect_from: 
 ---
-<br><br><br>
 
 ### Supported by:
 
-<a href="https://trinity.edu"><img alt="Trinity University logo - Muchison Tower silhouette" src="../assets/images/logos/TU.png" height="20"></a>
+<a href="https://trinity.edu"><img alt="Trinity University logo - Muchison Tower silhouette" src="../assets/images/logos/TU.png" style="height:40px;width:auto;"></a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://zulip.com"><img alt="Zulip logo" src="https://raw.githubusercontent.com/zulip/zulip/main/static/images/logo/zulip-org-logo.svg" height="20"></a>
+<a href="https://zulip.com"><img alt="Zulip logo" src="https://raw.githubusercontent.com/zulip/zulip/main/static/images/logo/zulip-org-logo.svg" style="height:40px;width:auto;"></a>
