@@ -13,15 +13,21 @@ We interpret geochemical and cosmochemical data to reconstruct Earth, environmen
 
 ---
 #### First, a very brief refresher:
-Atoms are made up of positively charged protons, negatively charged electrons, and "netural" neutrons. An atom's **element** is determined by the number of protons (atomic number or *z*), and its **isotope** is determined by its isotopic mass (the sum of protons and neutrons). For instance, an atom of helium (He) is determined by its atomic number *z=2*, and the isotope helium-4 has 2 neutrons:
+Atoms are made up of positively charged protons, negatively charged electrons, and "netural" neutrons. An atom's **element** is determined by the number of protons (atomic number or *z*, see the periodic table below), and its **isotope** is determined by its isotopic mass (the sum of protons and neutrons). For instance, an atom of helium (He) is determined by its atomic number *z=2*, and the isotope helium-4 has 2 neutrons:
 
 <img src="/assets/images/He4.png" width="30%" style="display:block;margin-left:auto;margin-right: auto;">
 ---
 
 ### Elemental analysis
 
-🚧 Section still under construction 🚧
+As geochemists, our first responsibility is to understand what our samples are <em>made of</em>. While we often have a reasonable first guess based on the minerals&mdash;calcite (CaCO<sub>3</sub>) contains calcium (Ca), carbon (C), oxygen (O) and quartz (SiO<sub>2</sub>) contains silicon (Si) and oxygen (O)&mdash;variations in elemental composition can give us insight into <em>how</em> these minerals formed.
 
+<figure>
+    <img style="display:block;margin-left: auto;margin-right: auto;background-color:rgb(255,255,255,0.8);" width="100%" src="https://upload.wikimedia.org/wikipedia/commons/2/2e/Simple_Periodic_Table_Chart-en.svg">
+    <figcaption>Periodic table of the elements (with atomic numbers, <em>z</em>). Image: <a href="https://commons.wikimedia.org/wiki/File:Simple_Periodic_Table_Chart-en.svg">Wikimedia Commons</a></figcaption>
+</figure>
+
+We use a variety of tools to measure elemental compositions, including mapping elemental compositions with scanning electron microscopes (SEM) and measuring elemental abundances with inductively-coupled plasma atomic-emission spectroscopy (ICP-AES).
 
 ### Mass spectrometry
 
@@ -35,13 +41,27 @@ The details of mass spectrometers vary and need not rely on a "sector" mass anal
 
 ## Computation 
 
-Most of our codes are written in the [Julia Programming Language](https://julialang.org/), a high-performance, open source scientific computing language. Packages under active development and maintenance by GRACkLe members include:
-
-- [CorePore.jl](https://github.com/grahamedwards/CorePore.jl)
-- [IsoMix.jl](https://github.com/grahamedwards/IsoMix.jl)
-- [SolarChem.jl](https://github.com/grahamedwards/SolarChem.jl)
-- [ImpactChron.jl](https://github.com/grahamedwards/ImpactChron.jl)
-- [CleanHistograms.jl](https://github.com/grahamedwards/CleanHistograms.jl)
+We use statistical models to fit geochemical data to numerical simulations of Earth and planetary systems. For high-performance computing, we rely on our 32-core server `Nunatak`. 
 
 
-<img src="https://raw.githubusercontent.com/JuliaLang/julia-logo-graphics/master/images/julia-logo-dark.svg" width="10%" style="display: block;margin-left: auto;margin-right: auto;"> 
+<img src="../assets/images/logos/nunatak-logo.svg" style="display: block;margin-left: auto;margin-right: auto; width:60%;" > 
+
+Most of our codes are written in the [Julia Programming Language](https://julialang.org/), a high-performance, open source scientific computing language.
+<img src="https://raw.githubusercontent.com/JuliaLang/julia-logo-graphics/master/images/julia-logo-dark.svg" style="display: block;margin-left: auto;margin-right: auto; width:10%;" > 
+
+### Packages developed &amp; maintained by GRACkLe members
+
+<table style="font-size:14pt">
+<tr>
+    <td><a href="https://github.com/grahamedwards/CorePore.jl">CorePore.jl</a></td>
+    <td><a href="https://github.com/grahamedwards/IsoMix.jl">IsoMix.jl</a></td>
+    <td><a href="https://github.com/grahamedwards/SolarChem.jl">SolarChem.jl</a></td>
+    <td><a href="https://github.com/grahamedwards/ImpactChron.jl">ImpactChron.jl</a></td>
+    <td><a href="https://github.com/grahamedwards/CleanHistograms.jl">CleanHistograms.jl</a></td>
+</tr>
+<tr>
+</tr>
+</table>
+
+
+
