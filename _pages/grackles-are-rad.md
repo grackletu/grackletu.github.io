@@ -5,26 +5,30 @@ permalink: /grackles-are-rad/
 author_profile: false
 
 gallery:
-  - url: /assets/images/grackle-sa1.jpg
-    image_path: /assets/images/grackle-sa1.jpg
+  - url: /assets/images/grackles/grackle-sa1.jpg
+    image_path: /assets/images/grackles/grackle-sa1.jpg
     alt: "Great-tailed grackle with beak open and feathers ruffled, facing away from camera."
     title: "Great-tailed grackle causing a ruckus on Hildebrand."
-  - url: /assets/images/grackle-sa2.jpg
-    image_path: /assets/images/grackle-sa2.jpg
+  - url: /assets/images/grackles/grackle-sa2.jpg
+    image_path: /assets/images/grackles/grackle-sa2.jpg
     alt: "Great-tailed grackle walking with purpose across a cement surface. "
     title: "Great-tailed grackle on the move, off Nacogdoches Road."
-  - url: /assets/images/grackle-fountain.jpg
-    image_path: /assets/images/grackle-fountain.jpg
+  - url: /assets/images/grackles/grackle-fountain.jpg
+    image_path: /assets/images/grackles/grackle-fountain.jpg
     alt: "Great-tailed grackle on a rock in a fountain. "
     title: "Great-tailed grackle cooling off, Riverwalk."
-  - url: /assets/images/grackle-lamp.jpg
-    image_path: /assets/images/grackle-lamp.jpg
+  - url: /assets/images/grackles/grackles-lamp.jpg
+    image_path: /assets/images/grackles/grackles-lamp.jpg
     alt: "Great-tailed grackles perched on a streetlamp. "
     title: "Great-tailed grackles perching above Kings Court."
-  - url: /assets/images/grackle-steps.jpg
-    image_path: /assets/images/grackle-steps.jpg
+  - url: /assets/images/grackles/grackle-steps.jpg
+    image_path: /assets/images/grackles/grackle-steps.jpg
     alt: "Great-tailed grackle mean-mugging the camera next to a flight of stairs. "
     title: "Great-tailed grackle at the Pearl Farmers' Market."
+  - url: /assets/images/grackles/mojave-2025.jpg
+    image_path: /assets/images/grackles/mojave-2025.jpg
+    alt: "Two great-tailed grackles standing on a patio table. A pigeon enters in the lower left. The ground is stained with bird droppings."
+    title: "Two great-tailed grackles and a pigeon hanging out in the Mojave. [Image credit: Gavin Piccione]"
 ---
 
 I ([Graham Edwards](https://grahamedwards.github.io)) once swore I would never use a whimsical acronym for a lab. I scientifically matured among planetary scientists, where I saw all sorts of goofy (often forced) acronyms, and I vowed to never be so ridiculous. Yet, here we are, so I feel compelled to explain myself.
