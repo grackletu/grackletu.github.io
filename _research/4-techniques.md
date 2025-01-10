@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Techniques"
+title: "Methods & Tools"
 collection: research
 permalink: /research/methods
 excerpt: ""

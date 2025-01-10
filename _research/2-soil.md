@@ -1,9 +1,11 @@
 ---
 layout: single
-title: "Sediment & Soil"
+title: "Sediments & Soil"
 collection: research
 permalink: /research/soil
-excerpt: " 🚧  🚧 "
+excerpt: ""
+header:
+    teaser: /assets/images/sediment.svg
 ---
 
 🚧 Webpage under construction 🚧
