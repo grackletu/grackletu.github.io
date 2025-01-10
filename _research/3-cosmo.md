@@ -1,9 +1,11 @@
 ---
 layout: single
-title: "Cosmochemistry & Planetary Science"
+title: "Cosmochemistry"
 collection: research
 permalink: /research/cosmo
-excerpt: ""
+excerpt:  ""
+header: 
+  teaser: ../assets/images/outer-ss.svg
 ---
 
 

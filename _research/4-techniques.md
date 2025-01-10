@@ -1,9 +1,11 @@
 ---
 layout: single
-title: "Methods & Techniques"
+title: "Techniques"
 collection: research
-permalink: /research/cryo
-excerpt: 
+permalink: /research/methods
+excerpt: ""
+header: 
+  teaser: ../assets/images/atom.svg
 ---
 
 ## Geochemical and radioisotope analysis

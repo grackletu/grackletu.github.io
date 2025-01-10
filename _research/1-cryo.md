@@ -1,9 +1,9 @@
 ---
 layout: single
-title: "Glaciers & Ice Sheets"
+title: "Ice & Climate"
 collection: research
 permalink: /research/cryo
-excerpt: "🚧 Webpage under construction 🚧"
+excerpt: ""
 ---
 
 🚧 Webpage under construction 🚧

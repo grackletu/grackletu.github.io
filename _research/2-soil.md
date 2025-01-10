@@ -1,9 +1,9 @@
 ---
 layout: single
-title: "Sediments & Soils"
+title: "Sediment & Soil"
 collection: research
 permalink: /research/soil
-excerpt: "🚧 Webpage under construction 🚧"
+excerpt: " 🚧  🚧 "
 ---
 
 🚧 Webpage under construction 🚧
