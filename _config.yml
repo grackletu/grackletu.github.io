@@ -301,7 +301,6 @@ defaults:
       path: ""
       type: posts
     values:
-      show_date: false
       layout: single
       author_profile: false
       read_time: true
