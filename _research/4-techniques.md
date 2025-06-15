@@ -49,7 +49,6 @@ We use statistical models to fit geochemical data to numerical simulations of Ea
 <img src="../assets/images/logos/nunatak-logo.svg" style="display: block;margin-left: auto;margin-right: auto; width:60%;" > 
 
 Most of our codes are written in the [Julia Programming Language](https://julialang.org/), a high-performance, open source scientific computing language.
-<img src="https://raw.githubusercontent.com/JuliaLang/julia-logo-graphics/master/images/julia-logo-dark.svg" style="display: block;margin-left: auto;margin-right: auto; width:10%;" > 
 
 ### Packages developed &amp; maintained by GRACkLe members
 
