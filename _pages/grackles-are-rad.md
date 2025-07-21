@@ -29,6 +29,10 @@ gallery:
     image_path: /assets/images/grackles/mojave-2025.jpg
     alt: "Two great-tailed grackles standing on a patio table. A pigeon enters in the lower left. The ground is stained with bird droppings."
     title: "Two great-tailed grackles and a pigeon hanging out in the Mojave. [Image credit: Gavin Piccione]"
+  - url: /assets/images/grackles/grackles-on-a-stick.jpg
+    image_path: /assets/images/grackles/grackles-on-a-stick.jpg
+    alt: "Two great-tailed grackles perched on a stick in the yard in front of a blue house."
+    title: "Two great-tailed grackles perched on a stick, near Monte Vista."
 ---
 
 I ([Graham Edwards](https://grahamedwards.github.io)) once swore I would never use a whimsical acronym for a lab. I scientifically matured among planetary scientists, where I saw all sorts of goofy (often forced) acronyms, and I vowed to never be so ridiculous. Yet, here we are, so I feel compelled to explain myself.
