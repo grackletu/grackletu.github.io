@@ -1,14 +1,14 @@
 ---
 permalink: /lab-members/
 layout: archive
-title: "Lab Member(s)"
+title: "Lab Members"
 author_profile: false
 redirect_from: 
   - /people/
   - /people.html
 ---
 
-## PI (Primary Investigator)
+## Primary Investigator
 <div style="display:flex;">
   <a href="https://grahamedwards.github.io"><div style="display: inline-table;margin: 20px;"><img src="https://grahamedwards.github.io/images/profile.jpg" width="150"></div></a>
   <p style="margin-left: 20px; vertical-align: middle"> 
@@ -33,6 +33,17 @@ redirect_from:
   <p style="margin-left: 20px; vertical-align: middle"> 
   <strong>Luke Moreton</strong><br>
   <em>Student Researcher</em><br>
+  </p>
+</div>
+
+## Associates
+
+<div style="display:flex;">
+  <div style="display: inline-table;margin: 20px;"><img src="../assets/images/ppl/chef.jpg" width="150"></div>
+  <p style="margin-left: 20px; vertical-align: middle"> 
+  <strong>Chef Kennedy Edwards</strong><br>
+  <em>Cat</em><br>
+  Interests: clay, kibble, rest, the hunt.
   </p>
 </div>
 
