@@ -6,6 +6,9 @@ permalink: /research/methods
 excerpt: ""
 header: 
   teaser: ../assets/images/atom.svg
+toc: true
+toc_label: "Contents"
+toc_icon: "atom"
 ---
 
 ## Geochemical and radioisotope analysis
@@ -14,7 +17,7 @@ We interpret geochemical and cosmochemical data to reconstruct Earth, environmen
 
 
 ---
-#### First, a very brief refresher:
+<h4>First, a very brief refresher:</h4>
 Atoms are made up of positively charged protons, negatively charged electrons, and "netural" neutrons. An atom's **element** is determined by the number of protons (atomic number or *z*, see the periodic table below), and its **isotope** is determined by its isotopic mass (the sum of protons and neutrons). For instance, an atom of helium (He) is determined by its atomic number *z=2*, and the isotope helium-4 has 2 neutrons:
 
 <img src="/assets/images/He4.png" width="30%" style="display:block;margin-left:auto;margin-right: auto;">
@@ -25,7 +28,7 @@ Atoms are made up of positively charged protons, negatively charged electrons, a
 As geochemists, our first responsibility is to understand what our samples are <em>made of</em>. While we often have a reasonable first guess based on the minerals&mdash;calcite (CaCO<sub>3</sub>) contains calcium (Ca), carbon (C), oxygen (O) and quartz (SiO<sub>2</sub>) contains silicon (Si) and oxygen (O)&mdash;variations in elemental composition can give us insight into <em>how</em> these minerals formed.
 
 <figure>
-    <img style="display:block;margin-left: auto;margin-right: auto;background-color:rgb(255,255,255,0.8);" width="100%" src="https://upload.wikimedia.org/wikipedia/commons/2/2e/Simple_Periodic_Table_Chart-en.svg">
+    <img style="display:block;margin-left: auto;margin-right: auto;background-color:rgb(255,255,255,0.9);" width="100%" src="https://upload.wikimedia.org/wikipedia/commons/2/2e/Simple_Periodic_Table_Chart-en.svg">
     <figcaption>Periodic table of the elements (with atomic numbers, <em>z</em>). Image: <a href="https://commons.wikimedia.org/wiki/File:Simple_Periodic_Table_Chart-en.svg">Wikimedia Commons</a></figcaption>
 </figure>
 
@@ -41,7 +44,8 @@ This diagram illustrates how a TIMS (Thermal Ionization Mass Spectrometer) opera
 
 The details of mass spectrometers vary and need not rely on a "sector" mass analyzer. Indeed, some isotopic analysis techniques do not rely on mass spectrometry at all! 
 
-## Computation 
+---
+## Computation
 
 We use statistical models to fit geochemical data to numerical simulations of Earth and planetary systems. For high-performance computing, we rely on our 32-core server `Nunatak`. 
 

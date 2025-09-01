@@ -6,14 +6,23 @@ permalink: /research/cosmo
 excerpt:  ""
 header: 
   teaser: ../assets/images/outer-ss.svg
+toc: true
+toc_label: "Contents"
+toc_icon: "meteor"
 ---
 
+<em>Cosmochemistry</em> is the study of extraterrestrial materials (often meteorites) to understand the origins and evolution of our solar system (and beyond). In our cosmochemical work, we aim to characterize the composition and assembly of the earliest planetary bodies to better reconstruct the origins and evolution of the solar system.
 
 ## Early solar system history
 
-Our modern solar system consists of a bright star (the Sun) at its center, orbited by a variety of rocky and icy bodies, including planets, asteroids, and Kuiper Belt Objects (which include comets). All of this formed from the collapse of an ancient cloud of gas and dust, through the process depicted below:
+Our modern solar system consists of a bright star (the Sun) at its center, orbited by a variety of rocky and icy bodies, including planets, asteroids, and Kuiper Belt Objects (which include comets). 
 
-<img src="../assets/images/ss-fm.svg">
+<img style="width: 100%" src="../assets/images/solar-system-profile.svg">
+
+
+All of this formed from the collapse of an ancient cloud of gas and dust, through the process depicted below:
+
+<img style="width: 100%" src="../assets/images/ss-fm.svg">
 
 Shortly after the formation of the Sun, the first small planetary bodies, called planetesimals, formed from clumps of dust and became the building blocks of the planets and asteroids in our solar system today. Some of these bodies reached sizes exceeding 100 km (~60 miles) across, not nearly as large as the planets of the solar system today (Earth is ~13,000 km), but large enough that they were held together by their own gravity and could survive collisions with much smaller objects.
 

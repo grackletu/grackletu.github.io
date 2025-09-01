@@ -14,7 +14,7 @@ author_profile: false
 redirect_from: 
 ---
 
-### Supported by:
+Supported by:
 
 <a href="https://trinity.edu"><img alt="Trinity University logo - Muchison Tower silhouette" src="../assets/images/logos/TU.png" style="height:40px;width:auto;"></a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
