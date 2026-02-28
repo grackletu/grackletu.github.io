@@ -34,7 +34,7 @@ gallery:
     alt: "Two great-tailed grackles perched on a stick in the yard in front of a blue house."
     title: "Two great-tailed grackles perched on a stick, near Monte Vista."
   - url: /assets/images/grackles/grackle-panama-city.jpg
-    image_path: /assets/images/grackles/grackles-on-a-stick.jpg
+    image_path: /assets/images/grackles/grackle-panama-city.jpg
     alt: "A great-tailed grackle perched on a metal frame in front of a garage and cars with foliage in the background."
     title: "A great-tailed grackle in Panama City, Panama. [Image credit: Charlotte Dillon]"
 ---
