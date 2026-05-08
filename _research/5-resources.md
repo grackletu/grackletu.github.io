@@ -11,8 +11,15 @@ toc_label: "Contents"
 toc_icon: "flask"
 ---
 
-## Student researcher expectations
-A researcher expectations document is in development. It will be openly published here upon sufficient completion.
+## Laboratory Guidelines
+[Read as webpage](https://grackletu.github.io/guidelines/grackle-guidelines.html)
+
+<object
+    data="https://grackletu.github.io/guidelines/grackle-guidelines.pdf"
+    width="800" 
+    height="800"
+    type="application/pdf"
+></object>
 
 ## Standard operating procedures
 
