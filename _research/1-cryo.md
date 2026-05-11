@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Ice & Climate"
+title: "Glaciers"
 collection: research
 permalink: /research/cryo
 excerpt: ""
@@ -17,10 +17,9 @@ We study the interactions between ice, climate, and environments in Earth's hist
 
 
 
-## Ice
+## Glaciers
 
 <strong>Glaciers</strong>&mdash;perennial ice masses that flow under their own weight&mdash;and <strong>ice sheets</strong>&mdash;glaciers that span entire continents&mdash;are beatufiul components of our Earth system that play a powerful and sensitive role in our planet's climate.
-
 
 
 ### Subglacial systems
