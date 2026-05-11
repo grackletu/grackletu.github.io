@@ -16,23 +16,22 @@ toc_icon: "flask"
 
 <object
     data="https://grackletu.github.io/guidelines/grackle-guidelines.pdf"
-    width="800" 
-    height="800"
+    width="850" 
+    height="1100"
     type="application/pdf"
 ></object>
 
 ## Standard operating procedures
 
-A standard operating procedures (SOP) document is in active development and should not be considered complete. However, you are welcome to check out the working draft of the <a href="https://grackletu.github.io/SOP/SOP-grackle.pdf">GRACkLe Standard Operating Procedures</a>.
-
-<!--- The following document below contains the standard operating procedures (SOP) for routine research activities.
+A standard operating procedures (SOP) document is in active development and should not be considered complete. You are welcome to check out the working draft below:
+<!--- The following document below contains the standard operating procedures (SOP) for routine research activities.--->
 <object
     data="https://grackletu.github.io/SOP/SOP-grackle.pdf"
-    width="800" 
-    height="800"
+    width="850" 
+    height="1100"
     type="application/pdf"
 ></object>
---->
+
 
 
 
