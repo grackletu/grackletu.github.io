@@ -37,7 +37,7 @@ Glaciers and ice sheets supply the <em>proglacial</em> landscapes in front of th
 
 ## Climate &amp; environmental change
 
-We study sediments and chemical precipitates from sub- and proglacial environments to better understand how ice sheets and (nearby) periglacial environments have responded to changing climates. We examine patterns in sedimentation as well as [elemental](methods#elemental-analysis) and [isotopic](methods#mass-spectrometry) information encoded in precipitate minerals.
+We study sediments and chemical precipitates from sub- and proglacial environments (including [proglacial lakes](2-lakes.md)) to better understand how ice sheets and (nearby) periglacial environments have responded to changing climates. We examine patterns in sedimentation as well as [elemental](methods#elemental-analysis) and [isotopic](methods#mass-spectrometry) information encoded in precipitate minerals.
 
 
 
