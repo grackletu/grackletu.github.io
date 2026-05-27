@@ -10,10 +10,10 @@ redirect_from:
 
 ## Primary Investigator
 <div style="display:flex;">
-  <a href="https://grahamedwards.github.io"><div style="display: inline-table;margin: 20px;"><img src="https://grahamedwards.github.io/images/profile.jpg" width="120"></div></a>
+  <a href="https://grahamedwards.github.io"><div style="display: inline-table;margin: 20px;"><img src="https://grahamedwards.github.io/images/profile.jpg" width="100"></div></a>
   <p style="margin-left: 20px; vertical-align: middle"> 
   <strong>Graham Harper Edwards</strong><br>
-  <em>Assistant Professor</em><br><br>
+  <em>Assistant Professor</em><br>
   Interests: glaciers, water, soils, meteorites, time
   </p>
 </div>
@@ -23,9 +23,8 @@ redirect_from:
 <div style="display:flex;">
   <div style="display: inline-table;margin: 20px;"><img src="../assets/images/grackle-only.svg" width="100"></div>
   <p style="margin-left: 20px; vertical-align: middle"> 
-    <strong>Julio Melara</strong> 
-    <br>
-    <em>Student Researcher</em>
+    <strong>Julio Melara</strong><br>
+
   </p>
 </div>
 
@@ -33,16 +32,15 @@ redirect_from:
   <div style="display: inline-table;margin: 20px;"><img src="../assets/images/grackle-only.svg" width="100"></div>
   <p style="margin-left: 20px; vertical-align: middle"> 
     <strong>Erin Rodriguez</strong><br>
-    <em>Student Researcher</em>
+
   </p>
 </div>
 
 <div style="display:flex;">
-  <div style="display: inline-table;margin: 20px;"><img src="../assets/images/grackle-only.svg" width="100"></div>
+  <div style="display: inline-table;margin: 20px;"><img src="../assets/images/ppl/strang-ian.jpeg" width="120"></div>
   <p style="margin-left: 20px; vertical-align: middle"> 
-    <strong>Ian Strang</strong> 
-    <br>
-    <em>Student Researcher</em>
+    <strong>Ian Strang</strong><br>
+    Interests: rocks, prehistoric landscapes and environments, bad jokes
   </p>
 </div>
 
