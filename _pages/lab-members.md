@@ -21,10 +21,10 @@ redirect_from:
 ## Student Researchers
 
 <div style="display:flex;">
-  <div style="display: inline-table;margin: 20px;"><img src="../assets/images/grackle-only.svg" width="100"></div>
+  <div style="display: inline-table;margin: 20px;"><img src="../assets/images/ppl/melara-julio.jpg" width="100"></div>
   <p style="margin-left: 20px; vertical-align: middle"> 
     <strong>Julio Melara</strong><br>
-
+    Interests: CaCO<sub>3</sub>, planetary health, education
   </p>
 </div>
 
