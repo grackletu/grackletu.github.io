@@ -9,66 +9,57 @@ redirect_from:
 ---
 
 ## Primary Investigator
-<div style="display:flex;">
-  <a href="https://grahamedwards.github.io"><div style="display: inline-table;margin: 20px;"><img src="https://grahamedwards.github.io/images/profile.jpg" width="100"></div></a>
-  <p style="margin-left: 20px; vertical-align: middle"> 
-  <strong>Graham Harper Edwards</strong><br>
-  <em>Assistant Professor</em><br>
-  Interests: glaciers, water, soils, meteorites, time
-  </p>
+<div style="  display: flex; flex-direction: row; flex-wrap: wrap; width: 100%;">
+  <div style="display:flex; flex-direction:col;margin:10px">
+    <div style="width: 100px;min-width:100px"><img src="https://grahamedwards.github.io/images/profile.jpg"></div>
+  <div style="margin-left: 20px;">
+    <a href="https://grahamedwards.github.io"><strong>Graham Harper Edwards</strong></a><br><em>Assistant Professor</em><br>
+    Interests: glaciers, water, soils, meteorites, time</div>
+  </div>
 </div>
 
 ## Student Researchers
+<div style="display: flex; flex-direction: col; flex-wrap: wrap; width: 100%;">
 
-<div style="display:flex;">
-  <div style="display: inline-table;margin: 20px;"><img src="../assets/images/ppl/melara-julio.jpg" width="100"></div>
-  <p style="margin-left: 20px; vertical-align: middle"> 
-    <strong>Julio Melara</strong><br>
-    Interests: CaCO<sub>3</sub>, planetary health, education
-  </p>
-</div>
+  <div style="display:flex; flex-direction:col;margin:10px">
+    <div style="width: 100px;min-width:100px"><img src="../assets/images/ppl/melara-julio.jpg"></div>
+    <div style="margin-left: 20px; "> <strong>Julio Melara</strong><br> Interests: CaCO<sub>3</sub>, planetary health, education</div>
+  </div>
 
-<div style="display:flex;">
-  <div style="display: inline-table;margin: 20px;"><img src="../assets/images/grackle-only.svg" width="100"></div>
-  <p style="margin-left: 20px; vertical-align: middle"> 
-    <strong>Erin Rodriguez</strong><br>
+  <div style="display:flex; flex-direction:col;margin:10px">
+    <div style="width: 100px;min-width:100px"><img src="../assets/images/ppl/rodriguez-erin.jpg"></div>
+    <div style="margin-left: 20px;"> <strong>Erin Rodriguez</strong><br>Interests: minerals, volcanoes, metamorphic rocks, meandering rivers, paleoclimate, ostracods, geochemistry</div>
+  </div>
 
-  </p>
-</div>
-
-<div style="display:flex;">
-  <div style="display: inline-table;margin: 20px;"><img src="../assets/images/ppl/strang-ian.jpeg" width="120"></div>
-  <p style="margin-left: 20px; vertical-align: middle"> 
-    <strong>Ian Strang</strong><br>
-    Interests: rocks, prehistoric landscapes and environments, bad jokes
-  </p>
+  <div style="display:flex; flex-direction:col;margin:10px">
+    <div style="width: 100px;min-width:100px"><img src="../assets/images/ppl/strang-ian.jpg"></div>
+    <div style="margin-left: 20px; vertical-align: middle;"> 
+      <strong>Ian Strang</strong><br>Interests: rocks, prehistoric landscapes and environments, bad jokes</div>
+  </div>
+  
 </div>
 
 
 
 ### Alumni
-<div style="display:flex;">
-  <p style="margin-left: 20px; vertical-align: middle"> 
-    <strong>Emma <q>Rose</q> Garrett</strong> (2026)
-  </p>
-</div>
+<ul>
+  <li>Emma <q>Rose</q> Garrett (2026)</li>
+  <li>Luke Moreton (2026)</li>
+  <li>Sophie Shipman (2026)</li>
+</ul>
 
-<div style="display:flex;">
-  <p style="margin-left: 20px; vertical-align: middle"> 
-    <strong>Luke Moreton</strong> (2026)
-  </p>
-</div>
 
 ## Associates
-
-<div style="display:flex;">
-  <div style="display: inline-table;margin: 20px;"><img src="../assets/images/ppl/chef.jpg" width="120"></div>
-  <p style="margin-left: 20px; vertical-align: middle"> 
-  <strong>Chef Kennedy Edwards</strong><br>
-  <em>Cat</em><br>
-  Interests: clay, kibble, rest, the hunt.
-  </p>
+<div style="  display: flex; flex-direction: col; flex-wrap: wrap; width: 100%;">
+  <div style="display:flex; flex-direction:col;margin:10px">
+    <div style="width: 100px;min-width:100px"><img src="../assets/images/ppl/chef.jpg"></div>
+    <div style="margin-left: 20px;">
+      <strong>Chef Kennedy Edwards</strong><br><em>Cat</em><br>
+      Interests: clay, kibble, rest, the hunt.
+    </div>
+    </div>
 </div>
+
 
 ---
 ---
